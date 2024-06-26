@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290778671583",
+    "project_id": "attendance-740c8",
+    "storage_bucket": "attendance-740c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290778671583:android:6cd38c89a03ecdedd8fc6a",
+        "android_client_info": {
+          "package_name": "com.domart.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHVFl06cCXgB9CIxJboS_GTOALbAEm6Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
